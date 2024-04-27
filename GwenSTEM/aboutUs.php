@@ -14,24 +14,26 @@
 ?>
 
 
-        <div id="aboutUs">
-            <div id="aboutUsTxt">
-            <h3>NJË SHKRIM NGA THEMELUESET TONA</h3>
-            <p>Udhëtimi ynë drejt një lëkure më të shëndetshme na frymëzoi të zhvillojmë produkte që funksionojnë vërtetë, në një mënyrë që është e arritshme për të gjithë. Haneul është i përkushtuar në bërjen e produkteve të bazuara në shkencë me formulime të shkëlqyera, duke thjeshtuar shumë nga misteret dhe narrativat komplekse pas kujdesit efikas të lëkurës. Shpresojmë se këto do të bëhen gjërat tuaja kryesore që mund të jetojnë në banjën tuaj, të jenë shoqëruesi juaj i preferuar i udhëtimit, të përmirësojnë lëkurën tuaj me kalimin e kohës dhe ta mbajnë lëkurën tuaj të lumtur dhe të hidratuar.</p>
-            </div>
-        </div>
+<div id="aboutUs">
+    <div id="aboutUsTxt">
+        <h3>NJË SHKRIM NGA THEMELUESIT TONA</h3>
+        <p>Udhëtimi ynë drejt promovimit të vajzave në STEM na frymëzoi të krijojmë një platformë që i inkurajon dhe i përkrah në rrugën e tyre drejt suksesit. Ne jemi të përkushtuar për të ofruar një mjedis të frytshëm dhe të inkurajueshëm, ku vajzat mund të zhvillojnë shkathtësitë e tyre në shkencë, teknologji, inxhinieri, dhe matematikë. Shpresojmë që kjo platformë do të bëhet burimi juaj kryesor për udhëzime, mbështetje dhe frymëzim në udhën tuaj drejt një të ardhmeje të ndritur në fushën e STEM.</p>
+    </div>
+</div>
 
-        <div id="aboutUs2">
-            <div id="aboutUs2Txt">
-                <p>Ne ofrojmë produkte të dizajnuara për bukurinë tuaj të vërtetë në mendje. Këtu do të gjeni skincare, makeup, body care dhe parfuma, të gjitha me vlerë për ju.
-                Haneul, Inc. u themelua më 2018 me besimin që bukura nuk ndërtohet nga kompanitë-ajo ndodhë kur je pjesë e procesit. Ne filluam me Haneul, një website i bukurisë dedikuar njerëzve që ndajnë produktet që i duan.
-                Tani, jemi duke ndërtuar një kompani të bukurisë të së ardhmes, ku gjithçka që bëjmë fillon me ju. Ne besojmë në dizajn të menduar mirë, si dhe në hapje të bisedave të rëndësishme(aty ku fillon gjithçka ). Por më së shumti, ne besojmë që bukuria ka të bëjë me argëtim, kudo që jeni në udhëtimin tuaj.
-                Na vjen mirë që po ju takojmë! Tani që jeni këtu, <a href="products.html" id="shiko">shikoni përreth.</a></p>
-            </div>
-            <div>
-                <img src="./images/about.jpg" alt="" id="img">
-            </div>
-        </div>
+
+        
+<div id="aboutUs2">
+    <div id="aboutUs2Txt">
+        <p>
+        Welcome to our STEM Girls Hub! We're on a mission to empower girls in STEM. Join us to explore the fascinating world of science, technology, engineering, and mathematics. Together, let's break barriers, shatter stereotypes, and pave the way for a future where girls thrive in every field of STEM!
+         <a href="products.html" id="shiko">Join us!</a></p>
+    </div>
+    <div>
+        <img src="./images/women_in_stem.png" alt="Women in STEM" id="img">
+    </div>
+</div>
+
     </main>
    <?php 
     include "footer.php";  
